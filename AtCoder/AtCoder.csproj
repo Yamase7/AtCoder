@@ -48,12 +48,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abc\QuestionA.cs" />
-    <Compile Include="Abc\QuestionB.cs" />
-    <Compile Include="Abc\QuestionC.cs" />
-    <Compile Include="Abc\QuestionD.cs" />
-    <Compile Include="Abc\QuestionE.cs" />
-    <Compile Include="Abc\QuestionF.cs" />
+    <Compile Include="Abc\ABC088B.cs" />
+    <Compile Include="Abc\ABC086A.cs" />
+    <Compile Include="Abc\ABC085B.cs" />
+    <Compile Include="Abc\ABC085C.cs" />
+    <Compile Include="Abc\ABC086C.cs" />
+    <Compile Include="Abc\ABC049C.cs" />
+    <Compile Include="Abc\PracticeA.cs" />
+    <Compile Include="Abc\ABC081A.cs" />
+    <Compile Include="Abc\ABC081B.cs" />
+    <Compile Include="Abc\ABC087B.cs" />
+    <Compile Include="Abc\ABC083B.cs" />
     <Compile Include="Lib\Calc.cs" />
     <Compile Include="Lib\PrimeFactors.cs" />
     <Compile Include="Lib\PriorityQueue.cs" />
