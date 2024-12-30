@@ -52,11 +52,12 @@
     <Compile Include="Abc\ABC175B.cs" />
     <Compile Include="Abc\ABC085C.cs" />
     <Compile Include="Abc\ABC051B.cs" />
-    <Compile Include="Abc\ARC029C.cs" />
+    <Compile Include="ARC\ARC029C.cs" />
     <Compile Include="Abc\ABC104C.cs" />
     <Compile Include="Abc\ABC079C.cs" />
-    <Compile Include="Abc\ARC004A.cs" />
-    <Compile Include="Abc\ARC061A.cs" />
+    <Compile Include="ARC\ARC004A.cs" />
+    <Compile Include="ARC\ARC061A.cs" />
+    <Compile Include="Lib\Search.cs" />
     <Compile Include="Lib\Calc.cs" />
     <Compile Include="Lib\Sort.cs" />
     <Compile Include="Lib\PrimeFactors.cs" />
