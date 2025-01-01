@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abc\ABC002D.cs" />
+    <Compile Include="Abc\ABC007C.cs" />
     <Compile Include="Abc\ABC175B.cs" />
     <Compile Include="Abc\ABC085C.cs" />
     <Compile Include="Abc\ABC051B.cs" />
@@ -57,6 +58,7 @@
     <Compile Include="Abc\ABC079C.cs" />
     <Compile Include="ARC\ARC004A.cs" />
     <Compile Include="ARC\ARC061A.cs" />
+    <Compile Include="ATC\ATC001A.cs" />
     <Compile Include="Lib\Search.cs" />
     <Compile Include="Lib\Calc.cs" />
     <Compile Include="Lib\Sort.cs" />
