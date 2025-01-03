@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AOJ\DPL1B.cs" />
     <Compile Include="AtCoder\Abc\ABC002D.cs" />
     <Compile Include="AtCoder\Abc\ABC007C.cs" />
     <Compile Include="AtCoder\Abc\ABC076C.cs" />
@@ -69,13 +70,14 @@
     <Compile Include="Lib\PriorityQueue.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TDPC\TDPCA.cs" />
     <Compile Include="Template.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="AOJ\" />
+    <Folder Include="Other\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Problem
 {
-    // URL
+    /// <summary>
+    /// URL
+    /// </summary>
     public class Template
     {
         public static void Main(string[] args)
