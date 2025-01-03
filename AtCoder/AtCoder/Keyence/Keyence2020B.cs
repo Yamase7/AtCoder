@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Keyence
+namespace AtCoder.AtCoder.Keyence
 {
     // https://atcoder.jp/contests/keyence2020/tasks/keyence2020_b
     public class Keyence2020B

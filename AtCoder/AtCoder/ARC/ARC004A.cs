@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Arc
+namespace AtCoder.AtCoder.Arc
 {
     // https://atcoder.jp/contests/arc004/tasks/arc004_1
     public class ARC004A

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Atc
+namespace AtCoder.AtCoder.Atc
 {
     // https://atcoder.jp/contests/atc001/tasks/dfs_a
     public class ATC001A

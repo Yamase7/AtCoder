@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Abc
+namespace AtCoder.AtCoder.Abc
 {
     // https://atcoder.jp/contests/abc104/tasks/abc007_c
     public class ABC007C

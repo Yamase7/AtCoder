@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Abc
+namespace AtCoder.AtCoder.Abc
 {
     // https://atcoder.jp/contests/abc175/tasks/abc175_b
     public class ABC175B

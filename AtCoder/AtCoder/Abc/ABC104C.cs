@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Abc
+namespace AtCoder.AtCoder.Abc
 {
-    // https://atcoder.jp/contests/abc002/tasks/abc002_4
-    public class ABC002D
+    // https://atcoder.jp/contests/abc104/tasks/abc104_c
+    public class ABC104C
     {
         public static void Main(string[] args)
         {

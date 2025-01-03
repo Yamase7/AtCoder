@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Arc
+namespace AtCoder.AtCoder.Arc
 {
     //https://atcoder.jp/contests/arc061/tasks/arc061_a
     public class ARC061A

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder.Joi
+namespace AtCoder.AtCoder.Joi
 {
     // https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_a
     public class JOI2007A
